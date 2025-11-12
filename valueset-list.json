@@ -1,0 +1,13 @@
+{
+  "codeSystems" : [
+    {
+      "url" : "http://smart.who.int/ig-empty/ValueSet/zim-gender-vs",
+      "version" : "0.1.0",
+      "status" : "draft",
+      "name" : "ZimGender",
+      "title" : "ZimGender Value Set",
+      "description" : "A set of gender categories for recording patient demographic information.",
+      "systems" : ["http://hl7.org/fhir/administrative-gender"]
+    }
+  ]
+}

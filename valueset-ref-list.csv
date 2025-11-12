@@ -1,0 +1,2 @@
+URL,Version,Status,OIDs,Name,Title,Descriptino,Uses,Used,Sources
+http://smart.who.int/ig-empty/ValueSet/zim-gender-vs,0.1.0,draft,,ZimGender,ZimGender Value Set,"A set of gender categories for recording patient demographic information.","StructureDefinition/LabPatient","hl7.fhir.r4.core"
