@@ -20,9 +20,9 @@ Description: "Example of a profile of Patient"
 
 ValueSet: ZimGender
 Id: zim-gender-vs
-Title: "Handedness Value Set"
-Description: "Indicates the dominant hand."
-* ^copyright = "This value set includes content from SNOMED CT, which is copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO), and distributed by agreement between IHTSDO and HL7. Implementer use of SNOMED CT is not covered by this agreement"
+Title: "ZimGender Value Set"
+Description: "A set of gender categories for recording patient demographic information."
+* ^copyright = "Copyright © 2002+ International Health Terminology Standards Development Organisation (IHTSDO). SNOMED CT is used within this value set under license from IHTSDO. Implementer use is subject to the terms of the IHTSDO and HL7 agreement."
 * http://hl7.org/fhir/administrative-gender#male "Male"
 * http://hl7.org/fhir/administrative-gender#female  "Female"
 * http://hl7.org/fhir/administrative-gender#unknown  "Unknown"
